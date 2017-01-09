@@ -1,0 +1,27 @@
+﻿@inherits WebMVCAppIoC.Pages.ProteinTrackerBaseBage
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Protein Tracking System</h2>
+
+@AnalyticsService.Code
+
+<ul class="list-group list">
+    <li class=""><strong>Total: </strong> @ViewBag.Total</li>
+    <li><strong>Goal: </strong> @ViewBag.Goal</li>
+</ul>
+<div class="row">
+    @{ 
+        using (Html.BeginForm("AddProtein", "ProteinTracker", FormMethod.Get))
+        {
+            <div class="form-group form-inline" >
+                <input class="form-control" name="amount" type="text" />
+                <input class="form-control" type="submit" value="Submit" />
+            </div>
+            
+        }
+    }
+</div>
+

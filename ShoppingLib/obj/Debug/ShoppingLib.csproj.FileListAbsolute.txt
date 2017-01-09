@@ -1,0 +1,5 @@
+c:\users\computer\documents\visual studio 2015\Projects\PlayGround\ConsoleApps\ShoppingLib\bin\Debug\ShoppingLib.dll
+c:\users\computer\documents\visual studio 2015\Projects\PlayGround\ConsoleApps\ShoppingLib\bin\Debug\ShoppingLib.pdb
+c:\users\computer\documents\visual studio 2015\Projects\PlayGround\ConsoleApps\ShoppingLib\obj\Debug\ShoppingLib.csprojResolveAssemblyReference.cache
+c:\users\computer\documents\visual studio 2015\Projects\PlayGround\ConsoleApps\ShoppingLib\obj\Debug\ShoppingLib.dll
+c:\users\computer\documents\visual studio 2015\Projects\PlayGround\ConsoleApps\ShoppingLib\obj\Debug\ShoppingLib.pdb

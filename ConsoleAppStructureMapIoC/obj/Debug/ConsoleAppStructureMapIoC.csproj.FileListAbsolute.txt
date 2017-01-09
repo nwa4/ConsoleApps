@@ -1,0 +1,9 @@
+c:\users\computer\documents\visual studio 2015\Projects\PlayGround\ConsoleApps\ConsoleAppStructureMapIoC\bin\Debug\ConsoleAppStructureMapIoC.exe.config
+c:\users\computer\documents\visual studio 2015\Projects\PlayGround\ConsoleApps\ConsoleAppStructureMapIoC\bin\Debug\ConsoleAppStructureMapIoC.exe
+c:\users\computer\documents\visual studio 2015\Projects\PlayGround\ConsoleApps\ConsoleAppStructureMapIoC\bin\Debug\ConsoleAppStructureMapIoC.pdb
+c:\users\computer\documents\visual studio 2015\Projects\PlayGround\ConsoleApps\ConsoleAppStructureMapIoC\obj\Debug\ConsoleAppStructureMapIoC.csprojResolveAssemblyReference.cache
+c:\users\computer\documents\visual studio 2015\Projects\PlayGround\ConsoleApps\ConsoleAppStructureMapIoC\obj\Debug\ConsoleAppStructureMapIoC.exe
+c:\users\computer\documents\visual studio 2015\Projects\PlayGround\ConsoleApps\ConsoleAppStructureMapIoC\obj\Debug\ConsoleAppStructureMapIoC.pdb
+c:\users\computer\documents\visual studio 2015\Projects\PlayGround\ConsoleApps\ConsoleAppStructureMapIoC\bin\Debug\ShoppingLib.dll
+c:\users\computer\documents\visual studio 2015\Projects\PlayGround\ConsoleApps\ConsoleAppStructureMapIoC\bin\Debug\StructureMap.dll
+c:\users\computer\documents\visual studio 2015\Projects\PlayGround\ConsoleApps\ConsoleAppStructureMapIoC\bin\Debug\ShoppingLib.pdb

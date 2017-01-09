@@ -1,0 +1,6 @@
+C:\Users\Computer\Documents\Visual Studio 2015\Projects\PlayGround\ConsoleApps\Test\bin\Debug\Test.exe.config
+C:\Users\Computer\Documents\Visual Studio 2015\Projects\PlayGround\ConsoleApps\Test\bin\Debug\Test.exe
+C:\Users\Computer\Documents\Visual Studio 2015\Projects\PlayGround\ConsoleApps\Test\bin\Debug\Test.pdb
+C:\Users\Computer\Documents\Visual Studio 2015\Projects\PlayGround\ConsoleApps\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Documents\Visual Studio 2015\Projects\PlayGround\ConsoleApps\Test\obj\Debug\Test.exe
+C:\Users\Computer\Documents\Visual Studio 2015\Projects\PlayGround\ConsoleApps\Test\obj\Debug\Test.pdb

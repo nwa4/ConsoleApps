@@ -1,0 +1,641 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ConsoleApps.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:ConsoleApps.Codes.Fakes.ShimChainSaw">
+            <summary>Shim type of ConsoleApps.Codes.ChainSaw</summary>
+        </member>
+        <member name="M:ConsoleApps.Codes.Fakes.ShimChainSaw.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:ConsoleApps.Codes.Fakes.ShimChainSaw.#ctor(ConsoleApps.Codes.ChainSaw)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:ConsoleApps.Codes.Fakes.ShimChainSaw.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:ConsoleApps.Codes.Fakes.ShimChainSaw.AllInstances.Start">
+            <summary>Sets the shim of ChainSaw.Start()</summary>
+        </member>
+        <member name="P:ConsoleApps.Codes.Fakes.ShimChainSaw.AllInstances.Stop">
+            <summary>Sets the shim of ChainSaw.Stop()</summary>
+        </member>
+        <member name="M:ConsoleApps.Codes.Fakes.ShimChainSaw.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:ConsoleApps.Codes.Fakes.ShimChainSaw.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:ConsoleApps.Codes.Fakes.ShimChainSaw.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:ConsoleApps.Codes.Fakes.ShimChainSaw.Bind(ConsoleApps.IControllable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:ConsoleApps.Codes.Fakes.ShimChainSaw.Constructor">
+            <summary>Sets the shim of ChainSaw.ChainSaw()</summary>
+        </member>
+        <member name="P:ConsoleApps.Codes.Fakes.ShimChainSaw.Start">
+            <summary>Sets the shim of ChainSaw.Start()</summary>
+        </member>
+        <member name="P:ConsoleApps.Codes.Fakes.ShimChainSaw.Stop">
+            <summary>Sets the shim of ChainSaw.Stop()</summary>
+        </member>
+        <member name="T:ConsoleApps.Codes.Fakes.ShimDelegates">
+            <summary>Shim type of ConsoleApps.Codes.Delegates</summary>
+        </member>
+        <member name="M:ConsoleApps.Codes.Fakes.ShimDelegates.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:ConsoleApps.Codes.Fakes.ShimDelegates.#ctor(ConsoleApps.Codes.Delegates)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:ConsoleApps.Codes.Fakes.ShimDelegates.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:ConsoleApps.Codes.Fakes.ShimDelegates.AllInstances.DoItInt32">
+            <summary>Sets the shim of Delegates.DoIt(Int32 value)</summary>
+        </member>
+        <member name="P:ConsoleApps.Codes.Fakes.ShimDelegates.AllInstances.RandomRobInt32">
+            <summary>Sets the shim of Delegates.RandomRob(Int32 value)</summary>
+        </member>
+        <member name="M:ConsoleApps.Codes.Fakes.ShimDelegates.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:ConsoleApps.Codes.Fakes.ShimDelegates.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:ConsoleApps.Codes.Fakes.ShimDelegates.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:ConsoleApps.Codes.Fakes.ShimDelegates.Bind(ConsoleApps.Codes.IInt32Action)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:ConsoleApps.Codes.Fakes.ShimDelegates.Constructor">
+            <summary>Sets the shim of Delegates.Delegates()</summary>
+        </member>
+        <member name="P:ConsoleApps.Codes.Fakes.ShimDelegates.ConstructorString">
+            <summary>Sets the shim of Delegates.Delegates(String name)</summary>
+        </member>
+        <member name="P:ConsoleApps.Codes.Fakes.ShimDelegates.DoItInt32">
+            <summary>Sets the shim of Delegates.DoIt(Int32 value)</summary>
+        </member>
+        <member name="P:ConsoleApps.Codes.Fakes.ShimDelegates.RandomRobInt32">
+            <summary>Sets the shim of Delegates.RandomRob(Int32 value)</summary>
+        </member>
+        <member name="P:ConsoleApps.Codes.Fakes.ShimDelegates.StaticRob2Int32">
+            <summary>Sets the shim of Delegates.StaticRob2(Int32 value)</summary>
+        </member>
+        <member name="P:ConsoleApps.Codes.Fakes.ShimDelegates.StaticRobInt32">
+            <summary>Sets the shim of Delegates.StaticRob(Int32 value)</summary>
+        </member>
+        <member name="T:ConsoleApps.Codes.Fakes.ShimExtensions">
+            <summary>Shim type of ConsoleApps.Codes.Extensions</summary>
+        </member>
+        <member name="M:ConsoleApps.Codes.Fakes.ShimExtensions.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:ConsoleApps.Codes.Fakes.ShimExtensions.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:ConsoleApps.Codes.Fakes.ShimExtensions.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:ConsoleApps.Codes.Fakes.ShimExtensions.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:ConsoleApps.Codes.Fakes.ShimExtensions.ReverseString">
+            <summary>Sets the shim of Extensions.Reverse(String imput)</summary>
+        </member>
+        <member name="M:ConsoleApps.Codes.Fakes.ShimExtensions.SelectOf2IEnumerableOfM0FuncOfM0M1``2(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Collections.Generic.IEnumerable{``0},System.Func{``0,``1},System.Collections.Generic.IEnumerable{``1}})">
+            <summary>Sets the shim of Extensions.Select(IEnumerable`1&lt;!!0&gt; source, Func`2&lt;!!0,!!1&gt; selector)</summary>
+        </member>
+        <member name="M:ConsoleApps.Codes.Fakes.ShimExtensions.WhereOf1IEnumerableOfM0FuncOfM0Boolean``1(Microsoft.QualityTools.Testing.Fakes.FakesDelegates.Func{System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Boolean},System.Collections.Generic.IEnumerable{``0}})">
+            <summary>Sets the shim of Extensions.Where(IEnumerable`1&lt;!!0&gt; source, Func`2&lt;!!0,Boolean&gt; predicate)</summary>
+        </member>
+        <member name="T:ConsoleApps.Codes.Fakes.ShimFakeEventRaiser">
+            <summary>Shim type of ConsoleApps.Codes.FakeEventRaiser</summary>
+        </member>
+        <member name="M:ConsoleApps.Codes.Fakes.ShimFakeEventRaiser.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:ConsoleApps.Codes.Fakes.ShimFakeEventRaiser.#ctor(ConsoleApps.Codes.FakeEventRaiser)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="P:ConsoleApps.Codes.Fakes.ShimFakeEventRaiser.AddHandlerFakeEventHandler">
+            <summary>Sets the shim of FakeEventRaiser.AddHandler(FakeEventHandler handler)</summary>
+        </member>
+        <member name="T:ConsoleApps.Codes.Fakes.ShimFakeEventRaiser.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:ConsoleApps.Codes.Fakes.ShimFakeEventRaiser.AllInstances.AddHandlerFakeEventHandler">
+            <summary>Sets the shim of FakeEventRaiser.AddHandler(FakeEventHandler handler)</summary>
+        </member>
+        <member name="P:ConsoleApps.Codes.Fakes.ShimFakeEventRaiser.AllInstances.DOSomething">
+            <summary>Sets the shim of FakeEventRaiser.DOSomething()</summary>
+        </member>
+        <member name="P:ConsoleApps.Codes.Fakes.ShimFakeEventRaiser.AllInstances.RemoveHandlerFakeEventHandler">
+            <summary>Sets the shim of FakeEventRaiser.RemoveHandler(FakeEventHandler handler)</summary>
+        </member>
+        <member name="M:ConsoleApps.Codes.Fakes.ShimFakeEventRaiser.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:ConsoleApps.Codes.Fakes.ShimFakeEventRaiser.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:ConsoleApps.Codes.Fakes.ShimFakeEventRaiser.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:ConsoleApps.Codes.Fakes.ShimFakeEventRaiser.Constructor">
+            <summary>Sets the shim of FakeEventRaiser.FakeEventRaiser()</summary>
+        </member>
+        <member name="P:ConsoleApps.Codes.Fakes.ShimFakeEventRaiser.DOSomething">
+            <summary>Sets the shim of FakeEventRaiser.DOSomething()</summary>
+        </member>
+        <member name="P:ConsoleApps.Codes.Fakes.ShimFakeEventRaiser.RemoveHandlerFakeEventHandler">
+            <summary>Sets the shim of FakeEventRaiser.RemoveHandler(FakeEventHandler handler)</summary>
+        </member>
+        <member name="T:ConsoleApps.Codes.Fakes.StubDelegates">
+            <summary>Stub type of ConsoleApps.Codes.Delegates</summary>
+        </member>
+        <member name="M:ConsoleApps.Codes.Fakes.StubDelegates.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:ConsoleApps.Codes.Fakes.StubDelegates.#ctor(System.String)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:ConsoleApps.Codes.Fakes.StubDelegates.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:ConsoleApps.Codes.Fakes.StubDelegates.InitializeStub">
+            <summary>Initializes a new instance of type StubDelegates</summary>
+        </member>
+        <member name="P:ConsoleApps.Codes.Fakes.StubDelegates.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:ConsoleApps.Codes.Fakes.StubDelegates.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:ConsoleApps.Codes.Fakes.StubFakeEventRaiser">
+            <summary>Stub type of ConsoleApps.Codes.FakeEventRaiser</summary>
+        </member>
+        <member name="M:ConsoleApps.Codes.Fakes.StubFakeEventRaiser.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:ConsoleApps.Codes.Fakes.StubFakeEventRaiser.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:ConsoleApps.Codes.Fakes.StubFakeEventRaiser.InitializeStub">
+            <summary>Initializes a new instance of type StubFakeEventRaiser</summary>
+        </member>
+        <member name="P:ConsoleApps.Codes.Fakes.StubFakeEventRaiser.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:ConsoleApps.Codes.Fakes.StubFakeEventRaiser.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:ConsoleApps.Codes.Fakes.StubIInt32Action">
+            <summary>Stub type of ConsoleApps.Codes.IInt32Action</summary>
+        </member>
+        <member name="M:ConsoleApps.Codes.Fakes.StubIInt32Action.#ctor">
+            <summary>Initializes a new instance of type StubIInt32Action</summary>
+        </member>
+        <member name="M:ConsoleApps.Codes.Fakes.StubIInt32Action.ConsoleApps#Codes#IInt32Action#DoIt(System.Int32)">
+            <summary>Sets the stub of IInt32Action.DoIt(Int32 value)</summary>
+        </member>
+        <member name="F:ConsoleApps.Codes.Fakes.StubIInt32Action.DoItInt32">
+            <summary>Sets the stub of IInt32Action.DoIt(Int32 value)</summary>
+        </member>
+        <member name="T:ConsoleApps.Fakes.ShimBaseClass">
+            <summary>Shim type of ConsoleApps.BaseClass</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.ShimBaseClass.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.ShimBaseClass.#ctor(ConsoleApps.BaseClass)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:ConsoleApps.Fakes.ShimBaseClass.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimBaseClass.AllInstances.CalculateResultInt32">
+            <summary>Sets the shim of BaseClass.CalculateResult(Int32 x)</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimBaseClass.AllInstances.NameGet">
+            <summary>Sets the shim of BaseClass.get_Name()</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimBaseClass.AllInstances.TrebleInputInt32">
+            <summary>Sets the shim of BaseClass.TrebleInput(Int32 x)</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.ShimBaseClass.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.ShimBaseClass.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimBaseClass.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimBaseClass.CalculateResultInt32">
+            <summary>Sets the shim of BaseClass.CalculateResult(Int32 x)</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimBaseClass.Constructor">
+            <summary>Sets the shim of BaseClass.BaseClass()</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimBaseClass.ConstructorString">
+            <summary>Sets the shim of BaseClass.BaseClass(String name)</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimBaseClass.NameGet">
+            <summary>Sets the shim of BaseClass.get_Name()</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimBaseClass.TrebleInputInt32">
+            <summary>Sets the shim of BaseClass.TrebleInput(Int32 x)</summary>
+        </member>
+        <member name="T:ConsoleApps.Fakes.ShimDancer">
+            <summary>Shim type of ConsoleApps.Dancer</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.ShimDancer.#ctor(ConsoleApps.Dancer)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:ConsoleApps.Fakes.ShimDancer.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimDancer.AllInstances.DanceTwice">
+            <summary>Sets the shim of Dancer.DanceTwice()</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimDancer.AllInstances.NameGet">
+            <summary>Sets the shim of Dancer.get_Name()</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimDancer.AllInstances.Start">
+            <summary>Sets the shim of Dancer.Start()</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimDancer.AllInstances.Stop">
+            <summary>Sets the shim of Dancer.Stop()</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.ShimDancer.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.ShimDancer.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimDancer.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.ShimDancer.Bind(ConsoleApps.IControllable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimDancer.ConstructorString">
+            <summary>Sets the shim of Dancer.Dancer(String name)</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimDancer.DanceTwice">
+            <summary>Sets the shim of Dancer.DanceTwice()</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimDancer.NameGet">
+            <summary>Sets the shim of Dancer.get_Name()</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimDancer.Start">
+            <summary>Sets the shim of Dancer.Start()</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimDancer.Stop">
+            <summary>Sets the shim of Dancer.Stop()</summary>
+        </member>
+        <member name="T:ConsoleApps.Fakes.ShimDerivedClass">
+            <summary>Shim type of ConsoleApps.DerivedClass</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.ShimDerivedClass.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.ShimDerivedClass.#ctor(ConsoleApps.DerivedClass)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:ConsoleApps.Fakes.ShimDerivedClass.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimDerivedClass.AllInstances.CalculateResultInt32">
+            <summary>Sets the shim of DerivedClass.CalculateResult(Int32 x)</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimDerivedClass.AllInstances.QuadrupleInputInt32">
+            <summary>Sets the shim of DerivedClass.QuadrupleInput(Int32 x)</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.ShimDerivedClass.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.ShimDerivedClass.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimDerivedClass.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimDerivedClass.CalculateResultInt32">
+            <summary>Sets the shim of DerivedClass.CalculateResult(Int32 x)</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimDerivedClass.Constructor">
+            <summary>Sets the shim of DerivedClass.DerivedClass()</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimDerivedClass.ConstructorString">
+            <summary>Sets the shim of DerivedClass.DerivedClass(String localName)</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimDerivedClass.QuadrupleInputInt32">
+            <summary>Sets the shim of DerivedClass.QuadrupleInput(Int32 x)</summary>
+        </member>
+        <member name="T:ConsoleApps.Fakes.ShimFred`1">
+            <summary>Shim type of ConsoleApps.Fred`1</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.ShimFred`1.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.ShimFred`1.#ctor(ConsoleApps.Fred{`0})">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:ConsoleApps.Fakes.ShimFred`1.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimFred`1.AllInstances.Foo">
+            <summary>Sets the shim of Fred`1.Foo()</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.ShimFred`1.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.ShimFred`1.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimFred`1.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimFred`1.ConstructorT0">
+            <summary>Sets the shim of Fred`1.Fred`1(!0 greeting)</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimFred`1.Foo">
+            <summary>Sets the shim of Fred`1.Foo()</summary>
+        </member>
+        <member name="T:ConsoleApps.Fakes.ShimStartAndStopper">
+            <summary>Shim type of ConsoleApps.StartAndStopper</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.ShimStartAndStopper.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.ShimStartAndStopper.#ctor(ConsoleApps.StartAndStopper)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:ConsoleApps.Fakes.ShimStartAndStopper.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimStartAndStopper.AllInstances.StartAndStopIControllable">
+            <summary>Sets the shim of StartAndStopper.StartAndStop(IControllable controller)</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.ShimStartAndStopper.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.ShimStartAndStopper.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimStartAndStopper.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimStartAndStopper.Constructor">
+            <summary>Sets the shim of StartAndStopper.StartAndStopper()</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimStartAndStopper.StartAndStopIControllable">
+            <summary>Sets the shim of StartAndStopper.StartAndStop(IControllable controller)</summary>
+        </member>
+        <member name="T:ConsoleApps.Fakes.ShimStreamSummer">
+            <summary>Shim type of ConsoleApps.StreamSummer</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.ShimStreamSummer.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.ShimStreamSummer.#ctor(ConsoleApps.StreamSummer)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:ConsoleApps.Fakes.ShimStreamSummer.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimStreamSummer.AllInstances.SumStream">
+            <summary>Sets the shim of StreamSummer.Sum(Stream stream)</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.ShimStreamSummer.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.ShimStreamSummer.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimStreamSummer.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimStreamSummer.Constructor">
+            <summary>Sets the shim of StreamSummer.StreamSummer()</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimStreamSummer.SumStream">
+            <summary>Sets the shim of StreamSummer.Sum(Stream stream)</summary>
+        </member>
+        <member name="T:ConsoleApps.Fakes.ShimTapDancer">
+            <summary>Shim type of ConsoleApps.TapDancer</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.ShimTapDancer.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.ShimTapDancer.#ctor(ConsoleApps.TapDancer)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:ConsoleApps.Fakes.ShimTapDancer.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimTapDancer.AllInstances.Dance">
+            <summary>Sets the shim of TapDancer.Dance()</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.ShimTapDancer.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.ShimTapDancer.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimTapDancer.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.ShimTapDancer.Bind(ConsoleApps.IControllable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimTapDancer.Constructor">
+            <summary>Sets the shim of TapDancer.TapDancer()</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.ShimTapDancer.Dance">
+            <summary>Sets the shim of TapDancer.Dance()</summary>
+        </member>
+        <member name="T:ConsoleApps.Fakes.StubBaseClass">
+            <summary>Stub type of ConsoleApps.BaseClass</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.StubBaseClass.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.StubBaseClass.#ctor(System.String)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.StubBaseClass.CalculateResult(System.Int32)">
+            <summary>Sets the stub of BaseClass.CalculateResult(Int32 x)</summary>
+        </member>
+        <member name="F:ConsoleApps.Fakes.StubBaseClass.CalculateResultInt32">
+            <summary>Sets the stub of BaseClass.CalculateResult(Int32 x)</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.StubBaseClass.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.StubBaseClass.InitializeStub">
+            <summary>Initializes a new instance of type StubBaseClass</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.StubBaseClass.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.StubBaseClass.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:ConsoleApps.Fakes.StubDancer">
+            <summary>Stub type of ConsoleApps.Dancer</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.StubDancer.#ctor(System.String)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.StubDancer.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.StubDancer.Dance">
+            <summary>Sets the stub of Dancer.Dance()</summary>
+        </member>
+        <member name="F:ConsoleApps.Fakes.StubDancer.Dance01">
+            <summary>Sets the stub of Dancer.Dance()</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.StubDancer.InitializeStub">
+            <summary>Initializes a new instance of type StubDancer</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.StubDancer.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.StubDancer.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:ConsoleApps.Fakes.StubDerivedClass">
+            <summary>Stub type of ConsoleApps.DerivedClass</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.StubDerivedClass.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.StubDerivedClass.#ctor(System.String)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.StubDerivedClass.CalculateResult(System.Int32)">
+            <summary>Sets the stub of DerivedClass.CalculateResult(Int32 x)</summary>
+        </member>
+        <member name="F:ConsoleApps.Fakes.StubDerivedClass.CalculateResultInt32">
+            <summary>Sets the stub of DerivedClass.CalculateResult(Int32 x)</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.StubDerivedClass.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.StubDerivedClass.InitializeStub">
+            <summary>Initializes a new instance of type StubDerivedClass</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.StubDerivedClass.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.StubDerivedClass.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:ConsoleApps.Fakes.StubFred`1">
+            <summary>Stub type of ConsoleApps.Fred`1</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.StubFred`1.#ctor(`0)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.StubFred`1.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.StubFred`1.InitializeStub">
+            <summary>Initializes a new instance of type StubFred</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.StubFred`1.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.StubFred`1.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:ConsoleApps.Fakes.StubIControllable">
+            <summary>Stub type of ConsoleApps.IControllable</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.StubIControllable.#ctor">
+            <summary>Initializes a new instance of type StubIControllable</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.StubIControllable.ConsoleApps#IControllable#Start">
+            <summary>Sets the stub of IControllable.Start()</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.StubIControllable.ConsoleApps#IControllable#Stop">
+            <summary>Sets the stub of IControllable.Stop()</summary>
+        </member>
+        <member name="F:ConsoleApps.Fakes.StubIControllable.Start">
+            <summary>Sets the stub of IControllable.Start()</summary>
+        </member>
+        <member name="F:ConsoleApps.Fakes.StubIControllable.Stop">
+            <summary>Sets the stub of IControllable.Stop()</summary>
+        </member>
+        <member name="T:ConsoleApps.Fakes.StubStartAndStopper">
+            <summary>Stub type of ConsoleApps.StartAndStopper</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.StubStartAndStopper.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.StubStartAndStopper.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.StubStartAndStopper.InitializeStub">
+            <summary>Initializes a new instance of type StubStartAndStopper</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.StubStartAndStopper.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.StubStartAndStopper.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:ConsoleApps.Fakes.StubStreamSummer">
+            <summary>Stub type of ConsoleApps.StreamSummer</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.StubStreamSummer.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.StubStreamSummer.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.StubStreamSummer.InitializeStub">
+            <summary>Initializes a new instance of type StubStreamSummer</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.StubStreamSummer.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.StubStreamSummer.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:ConsoleApps.Fakes.StubTapDancer">
+            <summary>Stub type of ConsoleApps.TapDancer</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.StubTapDancer.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.StubTapDancer.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.StubTapDancer.Dance">
+            <summary>Sets the stub of TapDancer.Dance()</summary>
+        </member>
+        <member name="F:ConsoleApps.Fakes.StubTapDancer.Dance01">
+            <summary>Sets the stub of TapDancer.Dance()</summary>
+        </member>
+        <member name="M:ConsoleApps.Fakes.StubTapDancer.InitializeStub">
+            <summary>Initializes a new instance of type StubTapDancer</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.StubTapDancer.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:ConsoleApps.Fakes.StubTapDancer.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>

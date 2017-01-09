@@ -1,0 +1,11 @@
+C:\Users\Computer\Documents\Visual Studio 2015\Projects\PlayGround\ConsoleApps\NUnit.Tests\obj\Debug\Fakes\ca\b\ConsoleApps.Fakes.xml
+C:\Users\Computer\Documents\Visual Studio 2015\Projects\PlayGround\ConsoleApps\NUnit.Tests\obj\Debug\Fakes\ca\b\ConsoleApps.Fakes.dll
+C:\Users\Computer\Documents\Visual Studio 2015\Projects\PlayGround\ConsoleApps\NUnit.Tests\obj\Debug\Fakes\ca\b\ConsoleApps.Fakes.pdb
+C:\Users\Computer\Documents\Visual Studio 2015\Projects\PlayGround\ConsoleApps\NUnit.Tests\obj\Debug\Fakes\ca\b\ConsoleApps.exe
+C:\Users\Computer\Documents\Visual Studio 2015\Projects\PlayGround\ConsoleApps\NUnit.Tests\obj\Debug\Fakes\ca\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Computer\Documents\Visual Studio 2015\Projects\PlayGround\ConsoleApps\NUnit.Tests\obj\Debug\Fakes\ca\b\nunit.framework.dll
+C:\Users\Computer\Documents\Visual Studio 2015\Projects\PlayGround\ConsoleApps\NUnit.Tests\obj\Debug\Fakes\ca\b\ConsoleApps.pdb
+C:\Users\Computer\Documents\Visual Studio 2015\Projects\PlayGround\ConsoleApps\NUnit.Tests\obj\Debug\Fakes\ca\b\nunit.framework.xml
+C:\Users\Computer\Documents\Visual Studio 2015\Projects\PlayGround\ConsoleApps\NUnit.Tests\obj\Debug\Fakes\ca\o\f.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Documents\Visual Studio 2015\Projects\PlayGround\ConsoleApps\NUnit.Tests\obj\Debug\Fakes\ca\o\ConsoleApps.Fakes.dll
+C:\Users\Computer\Documents\Visual Studio 2015\Projects\PlayGround\ConsoleApps\NUnit.Tests\obj\Debug\Fakes\ca\o\ConsoleApps.Fakes.pdb

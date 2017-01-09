@@ -1,0 +1,11 @@
+c:\users\computer\documents\visual studio 2015\Projects\PlayGround\ConsoleApps\ConsoleApps\bin\Debug\ConsoleApps.exe.config
+c:\users\computer\documents\visual studio 2015\Projects\PlayGround\ConsoleApps\ConsoleApps\bin\Debug\ConsoleApps.exe
+c:\users\computer\documents\visual studio 2015\Projects\PlayGround\ConsoleApps\ConsoleApps\bin\Debug\ConsoleApps.pdb
+c:\users\computer\documents\visual studio 2015\Projects\PlayGround\ConsoleApps\ConsoleApps\bin\Debug\ShoppingLib.dll
+c:\users\computer\documents\visual studio 2015\Projects\PlayGround\ConsoleApps\ConsoleApps\bin\Debug\ShoppingLib.pdb
+c:\users\computer\documents\visual studio 2015\Projects\PlayGround\ConsoleApps\ConsoleApps\obj\Debug\ConsoleApps.csprojResolveAssemblyReference.cache
+c:\users\computer\documents\visual studio 2015\Projects\PlayGround\ConsoleApps\ConsoleApps\obj\Debug\ConsoleApps.exe
+c:\users\computer\documents\visual studio 2015\Projects\PlayGround\ConsoleApps\ConsoleApps\obj\Debug\ConsoleApps.pdb
+c:\users\computer\documents\visual studio 2015\Projects\PlayGround\ConsoleApps\ConsoleApps\bin\Debug\StructureMap.dll
+C:\Users\Computer\Documents\Visual Studio 2015\Projects\PlayGround\ConsoleApps\ConsoleApps\bin\Debug\nunit.framework.dll
+C:\Users\Computer\Documents\Visual Studio 2015\Projects\PlayGround\ConsoleApps\ConsoleApps\bin\Debug\nunit.framework.xml

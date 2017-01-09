@@ -1,0 +1,10 @@
+c:\users\computer\documents\visual studio 2015\Projects\PlayGround\ConsoleApps\ConsoleAppNinjectIoC\bin\Debug\ConsoleAppNinjectIoC.exe.config
+c:\users\computer\documents\visual studio 2015\Projects\PlayGround\ConsoleApps\ConsoleAppNinjectIoC\bin\Debug\ConsoleAppNinjectIoC.exe
+c:\users\computer\documents\visual studio 2015\Projects\PlayGround\ConsoleApps\ConsoleAppNinjectIoC\bin\Debug\ConsoleAppNinjectIoC.pdb
+c:\users\computer\documents\visual studio 2015\Projects\PlayGround\ConsoleApps\ConsoleAppNinjectIoC\bin\Debug\Ninject.dll
+c:\users\computer\documents\visual studio 2015\Projects\PlayGround\ConsoleApps\ConsoleAppNinjectIoC\bin\Debug\ShoppingLib.dll
+c:\users\computer\documents\visual studio 2015\Projects\PlayGround\ConsoleApps\ConsoleAppNinjectIoC\bin\Debug\ShoppingLib.pdb
+c:\users\computer\documents\visual studio 2015\Projects\PlayGround\ConsoleApps\ConsoleAppNinjectIoC\bin\Debug\Ninject.xml
+c:\users\computer\documents\visual studio 2015\Projects\PlayGround\ConsoleApps\ConsoleAppNinjectIoC\obj\Debug\ConsoleAppNinjectIoC.csprojResolveAssemblyReference.cache
+c:\users\computer\documents\visual studio 2015\Projects\PlayGround\ConsoleApps\ConsoleAppNinjectIoC\obj\Debug\ConsoleAppNinjectIoC.exe
+c:\users\computer\documents\visual studio 2015\Projects\PlayGround\ConsoleApps\ConsoleAppNinjectIoC\obj\Debug\ConsoleAppNinjectIoC.pdb
